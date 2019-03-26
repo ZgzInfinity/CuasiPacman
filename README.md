@@ -1,11 +1,7 @@
 # CuasiPacman
 Trabajo de algoritmia y proyecto integrado
 
-<p align="center">
-  <img  src="https://drive.google.com/drive/folders/1YbbLtNTC-FgNA4VO0qviQd6VogOcUClQ">
-</p>
-
-## Descripcion
+## Descripción
 CuasiPacman es una versión del mítico juego Pacman implementado en lenguaje Pascal.
 
 El juego consta de una pantalla inicial donde se presenta el juego y se le pide al usuario una serie de parámetros de configuración por medio del teclado. Dichas opciones son las siguientes:
