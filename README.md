@@ -1,5 +1,9 @@
 # CuasiPacman
-Trabajo de algoritmia y proyecto integrado:
+Trabajo de algoritmia y proyecto integrado
+
+<p align="center">
+  <img  src="https://drive.google.com/drive/folders/1YbbLtNTC-FgNA4VO0qviQd6VogOcUClQ">
+</p>
 
 ## Descripcion
 CuasiPacman es una versión del mítico juego Pacman implementado en lenguaje Pascal.
