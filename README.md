@@ -28,19 +28,19 @@ Cada 200 segundos aparace un trébol en una posición aleatoria del tablero. Dic
 
 ![alt text](https://i.ibb.co/26MFPYV/7.jpg)
 
-El juego finaliza cuando los villanos atrapan al jugador tantas veces como vidas tiene el jugador o cuando presiones la tecla ESC. Sin embargo, el jugador puede perder vidas voluntariamente pulsando la tecla FIN. Cada vez que el jugador y uno de los malos chocan el jugador aparece en una nueva posición del tablero totalmente aleatoria. Una vez finalizada la partida se pregunta al usuario si desea volver a jugar.
+El juego finaliza cuando los villanos atrapan al jugador tantas veces como vidas tiene o cuando presiones la tecla ESC. Sin embargo, el jugador puede perder vidas voluntariamente pulsando la tecla FIN. Cada vez que el jugador y uno de los malos chocan el jugador aparece en una nueva posición del tablero totalmente aleatoria. Una vez finalizada la partida se pregunta al usuario si desea volver a jugar.
 
 ![alt text](https://i.ibb.co/JRVFvkP/4.jpg)
 
-## Ejecucion
-El proyecto consta de un total de 15 fases en las que se fueron añadiendo paulatinamente al juego los requisitos obligatorios. De este modo las 10 primeras fases son aspectos de ejecución obligatorios y las 5 fases restantes son mejoras adicionales.
+## Ejecución
+El proyecto consta de un total de 15 fases en las que se han ido añadiendo paulatinamente al juego los requisitos obligatorios. De este modo las 10 primeras fases son aspectos de ejecución obligatorios y las 5 fases restantes son mejoras adicionales.
 Para poder ejecutar el programa se recomienda usar un sistema operativo Windows con un IDE para Pascal, podeís usar Dev-Pascal, cuyo instalador está comprimido en el zip devpas192.zip, facilitado en el repositorio. 
 
-Una vez descargado y descomprimido e instalado Dev-Pascal aparece una ventana como la siguiente:
+Una vez descargado, descomprimido e instalado Dev-Pascal, al abrirlo, aparece una ventana como la siguiente:
 
 ![alt text](https://i.ibb.co/BVVhHhC/IDE-pascal.png)
 
-Para ejecutar el juego se debe seleccionar la ruta de clonación del repositorio y seleccionar uno de los ficheros de código. Si se selecciona por ejemplo la versión final, es decir, el fichero alg2a08_jnav_15.pas aparecerá algo similar a lo mostrado en esta imagen:
+Para ejecutar el juego se debe seleccionar la ruta de guardado del proyecto y seleccionar uno de los ficheros de código. Si se selecciona por ejemplo la versión final, es decir, el fichero alg2a08_jnav_15.pas aparecerá algo similar a lo mostrado en esta imagen:
 
 ![alt text](https://i.ibb.co/bLcQKk8/15.png)
 
